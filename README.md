@@ -1,0 +1,4 @@
+# Prime-Number-Generation
+This is a C program that generates all prime numbers up to any number you want. You can choose one of three methods: the naive way, the Sieve of Eratosthenes, or the Linear Sieve. The naive method is simple, it checks every number for divisibility but is slow for big numbers. The Sieve of Eratosthenes is faster, marking multiples of primes and skipping them, while using more memory. The Linear Sieve is the fastest, marking each number only once efficiently.
+
+This program is part of the research I am working on, exploring patterns in prime numbers and how different algorithms work. You can run it, pick a method, enter the number up to which you want primes, and it will print all the primes. This project helped me understand different approaches, compare their speeds, and practice arrays, loops, and dynamic memory in C. It’s a small but meaningful step in combining math and programming for research exploration.
